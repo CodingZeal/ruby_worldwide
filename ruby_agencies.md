@@ -45,4 +45,4 @@ Name                                                | Location                  
 [Substantial](http://substantial.com)               |                                    |
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA         |
 [Unboxed](http://www.unboxedconsulting.com)         | London, UK & Cape Town, SA         | sometimes
-[Zeal](http://www.codingzeal.com/)                  |                                    |
+[Zeal](http://www.codingzeal.com/)                  | Southern Oregon, USA               | yes
